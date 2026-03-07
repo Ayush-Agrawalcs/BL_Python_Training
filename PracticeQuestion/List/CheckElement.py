@@ -8,3 +8,4 @@ target=int(input("Enter the target value"))
 for i in list:
     if(target==i):
         print(i)
+
