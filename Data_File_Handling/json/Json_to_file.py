@@ -19,9 +19,3 @@ json.dump(data,open('dt.json','w'))
 
 print(data)
 
-k='''hello world
-welcome to python programming'''
-
-with open("kk.txt","w") as f:
-    f.writelines(k)
-
